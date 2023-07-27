@@ -4,17 +4,17 @@ Este SDK es rico en funciones básicas de procesamiento de imágenes y operadore
 
 Debido a que el almacén tiene restricciones sobre el tamaño del archivo, este almacén no tiene archivos de biblioteca estáticos y los archivos no son completos y adecuados. por favor, mueva el siguiente enlace para descargar la versión completa del paquete comprimido; Todas las actualizaciones de este SDK se publican a través de los siguientes enlaces, por favor, preste mucha atención a los cambios en los siguientes enlaces.
 
-https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1a6KYb6_UQ1IFY-D-gawqCA?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/1dsaoQHV
+https://share.weiyun.com/vaxgmDwd
 
-https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
+https://caiyun.139.com/m/i?0H5CJZ4MOSh24  提取码:NXoK
 
-https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
+https://www.mediafire.com/file/lefxwnt4ijwhyfp/ImageVision-SDK_11%2528RisingSun%2529.zip/file
 
-https://jmj.cc/s/a3xglk
+https://jmj.cc/s/va0y2h
 
-https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
+https://cloud.189.cn/web/share?code=mY7RZ3aA3mQz（访问码：3rqp）
 
 Póngase en contacto con los siguientes grupos QQ:
 
