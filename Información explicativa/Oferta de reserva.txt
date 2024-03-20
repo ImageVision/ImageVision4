@@ -1,0 +1,12 @@
+Aquellos que elijan el plan de reserva deben pagar primero el 30% del precio total del pedido y luego el 70% del precio total restante al entregar.
+
+Plan preferencial de reserva:
+Reserva con 5 a 8 días de antelación: 10% de reducción de precio por software
+Reserva con 8 a 11 días de antelación: 13% de reducción de precio por software
+Reserva con 11 a 14 días de antelación: 16% de reducción de precio por software
+Reserva con 14 a 17 días de antelación: 20% de reducción de precio por software
+Reserva con 17 a 20 días de antelación: 25% de reducción de precio por software
+Reserva con 20 a 25 días de antelación: 30% de reducción de precio por software
+Reserva con más de 25 días de antelación: 40% de reducción de precio por software
+
+Nota: las reservas anticipadas con una fecha inferior a 5 días no se consideran reservas.
