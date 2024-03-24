@@ -10,4 +10,6 @@ Póngase en contacto con los siguientes grupos QQ:
 
 423812702
 
+La tecnología de código QR de este software se deriva del proyecto zxing de Google en los Estados Unidos.https://github.com/zxing/zxing
+
 ¡Debido a que este talento es escaso, es inevitable citar algunos códigos de trabajo de otros autores. dado el gran número de otros autores citados y las dificultades de contacto, ¡ agradezco especialmente a los autores citados aquí! ¡Si usted es uno de los autores citados y tiene objeciones a esto, puede contactarme en cualquier momento para eliminar el Código relevante, ¡ lo siento mucho por su molestia!
